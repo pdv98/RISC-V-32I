@@ -1,3 +1,3 @@
 # RISC-V-32I
 
-[my_Block_Diagram.pdf](https://github.com/user-attachments/files/16832404/my_Block_Diagram.pdf)
+<img width="1146" alt="image" src="https://github.com/user-attachments/assets/43173449-621f-4625-8875-2c8ccdf116b2">
